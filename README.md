@@ -20,5 +20,6 @@ Following topics are covered as part of the course and documentation.
 - Basic Networking in Linux
 - Disk and Storage management in Linux
 - Summary CheatSheet For Quick Revision
+- Top 50 Interview Questions
 
 Please refer to the folders at the root level of this repository to go through the documentation. 
