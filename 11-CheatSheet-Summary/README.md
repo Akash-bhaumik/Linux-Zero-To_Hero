@@ -1,4 +1,4 @@
-# Linux Command CheatSheet (Interview Revision)
+# Linux Command CheatSheet
 
 This chapter contains a **quick summary of the most important Linux commands** covered in this repository.  
 It is designed for **fast revision before interviews or practical work**.
