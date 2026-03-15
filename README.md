@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐧 The Ultimate Linux & DevOps Interview Master Guide
 
 While learning Linux and Shell Scripting, one thing becomes clear: In DevOps, **"it works on my machine"** is not enough. 
@@ -422,3 +423,29 @@ Example: chmod 755 script.sh
 Meaning: Owner (4+2+1=7), Group (4+1=5), Others (4+1=5). Permissions are critical for system security.	
 50. Final Troubleshooting Takeaway
 Troubleshooting is about logic and logs. Whether it is a CPU spike, a full disk, or a crashing application, always follow the data: Check resources (top, df, free), then check the status (systemctl), and finally deep dive into the logs (tail -f, journalctl).
+=======
+# Ultimate Linux Guide
+
+Hi folks, 
+
+I , Akash Bhaumik modifies This Repository to serve as a revision notes for the YouTube course created by **Abhishek Veeramalla** on his youtube channel - `Abhishek.Veeramalla`.
+
+Following topics are covered as part of the course and documentation.
+
+- Fundamentals of Linux
+- Linux vs Windows
+- Core components of Linux
+- Setup Linux on Windows & MacOS
+- Linux folder structure
+- Linux user management
+- Linux file management
+- VI Editor shortcuts (commonly used)
+- File permissions
+- Process management
+- Linux system monitoring
+- Basic Networking in Linux
+- Disk and Storage management in Linux
+- Summary CheatSheet For Quick Revision
+
+Please refer to the folders at the root level of this repository to go through the documentation. 
+>>>>>>> a0227388b28a45f40031a7f0d8fa07ae4198b01a
